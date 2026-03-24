@@ -7,9 +7,9 @@ A parody corporate-dystopian portal for a mandatory dream monetization service. 
 - **🌓 Persistence:** Remembers your language choice across all 3 pages using local logic.
 
 ## 🛠️ Tech Stack
-- **HTML5:** Semantic structure for pricing, contact, and landing pages.
-- **CSS3:** Custom variables, glassmorphism, and complex keyframe animations.
-- **Vanilla JavaScript:** Lightweight state management for localization.
+- **HTML5** 
+- **CSS3** 
+- **JavaScript** 
 
 ---
 
@@ -22,6 +22,6 @@ Parodi bir kurumsal-distopik zorunlu uyku kontrol servisi.
 - **🌓 Persistence:** Yaptığınız dil seçimini bozulmadan her sayfada hatırlar.
 
 ## 🛠️ Kullanılan Teknolojiler
-- **HTML5:** Semantic structure for pricing, contact, and landing pages.
-- **CSS3:** Custom variables, glassmorphism, and complex keyframe animations.
-- **Vanilla JavaScript:** Lightweight state management for localization.
+- **HTML5** 
+- **CSS3** 
+- **JavaScript** 
