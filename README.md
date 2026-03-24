@@ -19,7 +19,7 @@ Parodi bir kurumsal-distopik zorunlu uyku kontrol servisi.
 ## ✨ Özellikler
 - **🌍 Dil Desteği:** URL parametrelerini kullanarak İngilizce veya Türkçe dilleri arasında geçiş yapın.
 - **⚡ Bozukluk:** 90 saniyede bir yaşanan yazı bozukluk animasyonu.
-- **🌓 Persistence:** Yaptığınız dil seçimini bozulmadan her sayfada hatırlar.
+- **🌓 Hatırlar:** Yaptığınız dil seçimini bozulmadan her sayfada hatırlar.
 
 ## 🛠️ Kullanılan Teknolojiler
 - **HTML5** 
